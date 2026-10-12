@@ -140,6 +140,6 @@ The project's license will be specified in the `LICENSE` file at the root of thi
 ## 👥 Team
 
 **Project:** SSD — Secure System Deployment  
-**Team:** [Your Team Name]  
-**Institution:** [Your College Name]
+**Team:** SSD 
+**Institution:** Sri Sairam Institute Of Technology
 
